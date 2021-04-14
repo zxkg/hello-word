@@ -1,4 +1,3 @@
 # hello-world
-none
 
-Hi humans!
+Everything starts with hello world。
