@@ -1,3 +1,3 @@
 # hello-world
 
-Everything starts with hello world。
+Everything starts with hello world.
